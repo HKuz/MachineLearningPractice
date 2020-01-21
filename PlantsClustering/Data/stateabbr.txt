@@ -1,6 +1,6 @@
-State Abbreviations 
+State Abbreviations
 
-U.S. States: 
+U.S. States:
 ab Alabama
 ak Alaska
 ar Arkansas
@@ -20,7 +20,7 @@ ia Iowa
 ks Kansas
 ky Kentucky
 la Louisiana
-me Maine  
+me Maine
 md Maryland
 ma Massachusetts
 mi Michigan
@@ -49,7 +49,7 @@ tx Texas
 ut Utah
 vt Vermont
 va Virginia
-vi Virgin Islands 	 
+vi Virgin Islands
 wa Washington
 wv West Virginia
 wi Wisconsin
@@ -67,10 +67,10 @@ nt Northwest Territories
 ns Nova Scotia
 nu Nunavut
 on Ontario
-Prince Edward Island
+pe Prince Edward Island
 qc Québec
 sk Saskatchewan
 yt Yukon
 
 dengl Greenland (Denmark)
-fraspm St. Pierre and Miquelon (France) 
+fraspm St. Pierre and Miquelon (France)
